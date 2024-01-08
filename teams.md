@@ -6,7 +6,15 @@ title: Teams
 
 ## OpenIoT Team
 
-During undergraduate, my two roommates and I co-founded a tech group called **OpenIoT**. With an entrepreneurial spirit in technology, we participated in numerous innovation and entrepreneurship competitions. As of 2023, the OpenIoT team has grown to include 24 official members and has accumulated a total of six national-level competition awards.
+生物多様性領域 [生物多様性保全計画研究室](https://sites.google.com/view/econ4biodiv/home)
+
+Commencing in September 2023, I formally became a member of the Biodiversity Laboratory at the National Institute for Environmental Studies in Japan. This laboratory is renowned for its strong academic ethos and research-oriented environment. The team is dedicated to conducting research on "**Leveraging Human Behavior for Biodiversity Conservation**," with a steadfast commitment to the preservation and sustainable utilization of natural ecosystems.<br>
+
+Our research primarily focuses on Biodiversity conservation, Wildlife trade, and the assessment of Recreational value in National parks. We employ a diverse array of methodologies, including software coding, field investigations, and mathematical modeling, to strike a harmonious balance between biodiversity conservation and the study of human behavior associated with recreational activities.<br>
+
+The team places a significant emphasis on fostering external collaborations and maintains robust partnerships with esteemed research institutions such as Kyoto University, Sophia University, the University of Oxford, and the University of Nebraska-Lincoln.<br>
+
+In our pursuit of biodiversity conservation research, we are constantly on a journey towards our goal. Our mission is to tirelessly promote the harmonious coexistence of humans with nature, among humans themselves, and within society. We aim for a virtuous cycle of comprehensive development, sustainable prosperity, and enduring well-being.
 
 <br>
 
@@ -21,8 +29,9 @@ During undergraduate, my two roommates and I co-founded a tech group called **Op
 
 ## My Fundings
 
-- Industrial Inspection System based on Intelligent IoT and Bionic Quadruped Robot<br>**Funding $3000** (Grant No. 202310386056)<br>China National Undergraduate Innovation and Entrepreneurship Training Program<br>Project Leader & Student Investigator (2023-2024)<br><br>
-- Community Monitoring System based on Smart IoT and Inspection Vehicle<br>**Funding $1000** (Grant No. 2023080208)<br>National Youth Science Innovation Project Competition Award<br>Project Leader & Student Investigator (2023)<br><br>
+- I am serving as a research assistant within the team, primarily involved in the "**National Park Valuation Project**" My responsibilities encompass:<br>
+  - ** Research on the Interaction Between Visitor Behavior and Bear Activity in Nikko National Park, Japan.
+  - ** Conducting a Study to Assess Environmental Values in Japanese National Parks Using Big Data.
 
 <br>
 

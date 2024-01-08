@@ -6,7 +6,7 @@ title: Hobbies
 
 # Hobbies
 
-## 我不喜欢
+## 画画
 
 <div class="third">
 <img src="/images/swimming2.JPG">

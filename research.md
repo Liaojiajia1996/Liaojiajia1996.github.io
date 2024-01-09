@@ -16,6 +16,7 @@ Within the realm of contemporary environmental economics, I am dedicated to expl
 
 The innovation of this study lies in the application of big data technology in the field of environmental economics, revealing the interplay between park green space usage and human activities, and providing data support for the formulation of environmental policies and tourism planning. <br>
 
+---
 
 ## Project Research Topic
 

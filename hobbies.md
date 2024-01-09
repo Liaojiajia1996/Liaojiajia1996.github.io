@@ -12,15 +12,16 @@ title: Hobbies
 <img src="/images/drawing1.jpg" class="floatpic" width="400" height="550">
 <img src="/images/drawing2.jpg" class="floatpic" width="400" height="550"> 
 </div>
-<br>I have a strong passion for both oil and acrylic painting. Textured painting techniques can add interesting textures and layers to my artwork. What I love about painting is its ability to express my emotions and release my feelings. Hiking, on the other hand, provides me with a wealth of inspiration. When I'm creating art, I can immerse myself in the beauty of nature, which helps me discover and appreciate the many wonderful aspects and surprises of daily life.
+<br>
+I have a strong passion for both oil and acrylic painting. Textured painting techniques can add interesting textures and layers to my artwork. What I love about painting is its ability to express my emotions and release my feelings. Hiking, on the other hand, provides me with a wealth of inspiration. When I'm creating art, I can immerse myself in the beauty of nature, which helps me discover and appreciate the many wonderful aspects and surprises of daily life.<br>
 
 
 ## Bartending
 
 <div class="third">
-<img src="/images/wine1.jpg" class="floatpic" width="330" height="480">
-<img src="/images/wine4.jpg" class="floatpic" width="330" height="480">
-<img src="/images/wine3.jpg" class="floatpic" width="320" height="480">
+<img src="/images/wine1.jpg" class="floatpic" width="264" height="384">
+<img src="/images/wine4.jpg" class="floatpic" width="264" height="384">
+<img src="/images/wine3.jpg" class="floatpic" width="264" height="384">
 </div>
 
 <br>

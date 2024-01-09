@@ -31,7 +31,7 @@ The innovation of this study lies in the application of big data technology in t
 <img src="/images/bear1.jpg" class="floatpic" width="480" height="360"><br>
 
 - **Research on the Interaction Between Visitor Behavior and Bear Activity in Nikko National Park, Japan**.<br>
-  -  The research topic I am focusing on is the analysis of bear sighting incidents in Nikko City, Japan, and their conflicts with human activities.
+  -  The research topic I am focusing on is the analysis of bear sighting incidents in Nikko nation park, Japan, and their conflicts with human activities.
   -  The objective is to understand how human behaviors might influence bear activities and vice versa, providing insights into the complex interaction between wildlife and human presence in this area.
 <br>
 

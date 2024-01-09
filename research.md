@@ -6,20 +6,17 @@ title: Research
 
 Lastest Update: Jan 2024
 
-## Scholarships
+## 博士研究课题
 
-- Dec 2023：**AAAI-24 Undergraduate Scholarship** ($2000)<br>Only 12 undergraduates are selected each year.
-- Aug 2023：**FEPG Scholarship** ($1400)<br>One of the highest undergraduate awards at FZU.
-- May 2023：**XiamenAir Scholarship** ($600)<br>One of the highest undergraduate awards at FZU
-- Oct 2023：Best Academic Performance of Maynooth (€100)
-- Oct 2022：Best Student Project Award of Maynooth (€100)
-- March 2023：Second Prize Scholarship of FZU ($1400)
-- Sep 2022：First Prize Scholarship of FZU ($2100)
-- March 2022：First Prize Scholarship of FZU ($2100)
-- Sep 2021：Third Prize Scholarship of FZU ($700)
-- March 2021：First Prize Scholarship of FZU ($2100)<br>Combined degree scholarship between FZU and Maynooth<br>
+-博士研究论文 “**Big data applications in tourism economics**”<br>
 
-## Competitions
+关键词：大数据、旅游经济、手机移动数据、公园及绿地、人类行为活动<br> 
+
+Within the realm of contemporary environmental economics, I am dedicated to exploring how big data can optimize the management of natural park green spaces, aiming to achieve a synergistic effect between environmental protection and economic growth. Utilizing mobile phone data, this research aims to precisely analyze human behavior patterns in parks and green spaces, optimize their layout, and enhance both environmental benefits and the value of tourism economics. <br>
+
+The innovation of this study lies in the application of big data technology in the field of environmental economics, revealing the interplay between park green space usage and human activities, and providing data support for the formulation of environmental policies and tourism planning. This approach not only promotes the efficient use of environmental resources but also provides a new perspective for understanding the dynamic relationship between the environment and economic development, contributing to the theoretical and practical innovation in environmental economics.<br>
+
+## 项目研究课题
 
 - Aug 2023：Second Prize in National Collegiate Internet of Things Technology and Application Competition
 - Aug 2023：**<font color='red'>Best Technology Award</font>** in National Youth Science Innovation Project Competition

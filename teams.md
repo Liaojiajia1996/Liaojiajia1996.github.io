@@ -24,9 +24,9 @@ In our pursuit of biodiversity conservation research, we are constantly on a jou
 ## My Role
 
 - I am serving as a research assistant within the team, primarily involved in the "**National Park Valuation Project**" My responsibilities encompass:<br>
-  - ** Research on the Interaction Between Visitor Behavior and Bear Activity in Nikko National Park, Japan.
+  -  Research on the Interaction Between Visitor Behavior and Bear Activity in Nikko National Park, Japan.
     
-  - ** Conducting a Study to Assess Environmental Values in Japanese National Parks Using Big Data.
+  -  Conducting a Study to Assess Environmental Values in Japanese National Parks Using Big Data.
 
 <br>
 
@@ -40,7 +40,7 @@ In our pursuit of biodiversity conservation research, we are constantly on a jou
 <img src="/images/team1.JPG" class="floatpic" width="480" height="360">
 <img src="/images/team2.JPG" class="floatpic" width="480" height="360">
 <img src="/images/team3.JPG" class="floatpic" width="480" height="360"> 
-<img src="/images/team4.JPG" class="floatpic" width="480" height="360">
+<img src="/images/team4.jpg" class="floatpic" width="480" height="360">
 </div>
 
 

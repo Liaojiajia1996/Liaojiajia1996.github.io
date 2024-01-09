@@ -6,7 +6,7 @@ title: Teams
 
 ## Team
 
-<img src="blogs/web.assets/IMG_1733.JPG" class="floatpic" width="480" height="360">
+<img src="/images/IMG_1733.JPG" class="floatpic" width="480" height="360">
 
 生物多様性領域 [生物多様性保全計画研究室](https://sites.google.com/view/econ4biodiv/home) <br>
 Team members ：https://sites.google.com/view/econ4biodiv/team
@@ -37,10 +37,10 @@ In our pursuit of biodiversity conservation research, we are constantly on a jou
 <br>
 
 <div class="third">
-<img src="blogs/web.assets/IMG_1720.JPG" class="floatpic" width="480" height="360">
-<img src="blogs/web.assets/IMG_1754.JPG" class="floatpic" width="480" height="360">
-<img src="blogs/web.assets/IMG_20231019_090606.jpg" class="floatpic" width="480" height="360">
-   <img src="blogs/web.assets/IMG_1922.JPG" class="floatpic" width="480" height="360">
+<img src="/images/team1.JPG" class="floatpic" width="480" height="360">
+<img src="/images/team2.JPG" class="floatpic" width="480" height="360">
+<img src="/images/team3.JPG" class="floatpic" width="480" height="360"> 
+<img src="/images/team4.JPG" class="floatpic" width="480" height="360">
 </div>
 
 

@@ -31,8 +31,7 @@ If you are interested in any aspect of me, I would love to chat and collaborate,
 - Human behaviour change
 - Ecosystem Services
 
-My current research focuses on practical problems that artificial intelligence faces in real life. My interests are on the **Machine Learning** and its applications in **Industrial IoT**. In a word, advanced technologies like ML and IoT positively influence the life of everybody.  I wish to devote my talent to this meaningful cause and bring well-being to society.
-
+My current research focuses on the integration and analysis of big data in enhancing the management of nation park. My interests are on the **Big Data** and its applications in **Tourism Economy**. By leveraging advanced data analytics, I aim to understand and optimize the interaction between human activities and the environment, particularly in the context of urban tourism and park utilization. This approach seeks to demonstrate the significant role of nation park in enhancing societal well-being through both ecological and economic lenses. 
 <br>
 
 ---
@@ -42,7 +41,7 @@ My current research focuses on practical problems that artificial intelligence f
 - **Jan 2024：** Completed my personal website!
 - **Dec 2023：** Currently dedicating myself to studying tourism economics books, such as Discrete Choice Models with Simulation and Travel Cost Methods. If you have any areas you'd like to discuss or exchange ideas on, please feel free to contact me!
 - **Aug 2023：** Delighted to have joined the NIES Biodiversity Conservation Project Research Lab. Exciting times ahead!！
-- **Apr 2023****：** Thrilled to have started my Ph.D. journey at Hokkaido University!
+- **Apr 2023：** Thrilled to have started my Ph.D. journey at Hokkaido University!
 
 <br>
 

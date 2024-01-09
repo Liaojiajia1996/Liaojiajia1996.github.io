@@ -18,28 +18,14 @@ The innovation of this study lies in the application of big data technology in t
 
 ## 项目研究课题
 
-- Aug 2023：Second Prize in National Collegiate Internet of Things Technology and Application Competition
-- Aug 2023：**<font color='red'>Best Technology Award</font>** in National Youth Science Innovation Project Competition
-- Aug 2023：Second Prize in National College Digital Art&Design Awards (NCDA, provincial level)
-- July 2023：Third Prize in Fujian College Student Computer Design Competition
-- June 2023：**First Prize** (Provincial championship) in Fujian Youth Science Innovation Project Competition
-- May 2023：**<font color='red'>Finalist Award</font>** in Mathematical Contest In Modeling (Top 1% of all 20508 paper)
-- Nov 2022：First Prize (Provincial Level) in China Undergraduate Mathematical Contest in Modeling
-- Oct 2022：Maynooth International Engineering College Best Student Project in Academic Year 2022
-- Aug 2022： Third Prize in China National College Student Computer Design Competition
-- June 2022：Second Prize in Fujian College Student Computer Design Competition
-- June 2022：**Champion** of 100-meter Freestyle Swimming Competition of Fuzhou University
-- June 2022：Third Prize in the 13th Nanwei Cup Mathematical Mathematical Contest in Modeling<br>
+- I am serving as a Research Assistant within the team, primarily involved in the "**National Park Valuation Project**" My responsibilities encompass:<br>
+  -  Research on the Interaction Between Visitor Behavior and Bear Activity in Nikko National Park, Japan.
+    我的研究以分析日本日光市熊目击事件与人类活动冲突为研究主题，分析熊目击事件登报的信息与游客活动
+  -  Conducting a Study to Assess Environmental Values in Japanese National Parks Using Big Data.
 
-## Honors
+<br>
 
-- Aug 2023：FEPG Scholarship (Top 0.5%)<br>Funded by Fujian Energy Petrochemical Group (FEPG)
-- May 2023：XiamenAir Scholarship (Top 1%)<br>Funded by Xiamen Airline, 30 students each year
-- May 2023：Outstanding Student Leaders of FZU
-- May 2021：Merit Student of Fuzhou University
-- July 2023：*Nomination for Baosteel Scholarship*
-- Sep 2022：*Nomination for China National Scholarship*
-- June 2022：*Nomination for China Telecom Scholarship*<br>
+---
 
 ## Services
 

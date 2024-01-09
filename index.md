@@ -10,13 +10,13 @@ Here is **Jiajia Liao (廖佳佳)**.
 
 I am a first-year Ph.D. student at the School of Agriculture at **Hokkaido University** in Japan, advised by [Prof. Yasushi Shoji](https://yshoji5.wixsite.com/yshoji) . Currently, I serve as a **Research Assistant** at the [National Institute for Environmental Studies](https://www.nies.go.jp/) in Japan, under the supervision of [Dr. Takahiro Kubo](https://kubotaka.wixsite.com/blog).
 
-If you are interested in any aspect of me, I would love to chat and collaborate, please email me at - * [jiajia.liao.z1@elms.hokudai.ac.jp](mailto:jiajia.liao.z1@elms.hokudai.ac.jp) / [liao.jiajia@nies.go.jp](mailto:liao.jiajia@nies.go.jp)*
+If you are interested in any aspect of me, I would love to chat and collaborate, please email me  -  [jiajia.liao.z1@elms.hokudai.ac.jp](mailto:jiajia.liao.z1@elms.hokudai.ac.jp) / [liao.jiajia@nies.go.jp](mailto:liao.jiajia@nies.go.jp)
 
 ## Academic Background
 
 - **Apr 2023 - Now :** Hokkaido University,  JAPAN  (PHD)
 - **Sep 2019 - June 2022 :** China University of Geosciences(Beijing),  CHINA  (MS)
-- **Sep 2015 - June 2019 : ** Nanning Normal University, CHIAN  (BSc)
+- **Sep 2015 - June 2019 :** Nanning Normal University, CHIAN  (BSc)
 
 <br>
 

@@ -18,11 +18,12 @@ The innovation of this study lies in the application of big data technology in t
 
 ## Project Research Topic
 
-- I am serving as a Research Assistant within the team, primarily involved in the "**National Park Valuation Project**" My responsibilities encompass:<br>
-  -  Research on the Interaction Between Visitor Behavior and Bear Activity in Nikko National Park, Japan.
-    我的研究以分析日本日光市熊目击事件与人类活动冲突为研究主题，分析熊目击事件登报的信息与游客活动行为变化分析，研究主要探究人的活动行为与目击事件之间的关联性，游客什么样的行为会影响凶的活动路径，同时探究什么环境变化下熊的活动会受到影响。
-  -  Conducting a Study to Assess Environmental Values in Japanese National Parks Using Big Data.
+ I am serving as a Research Assistant within the team, primarily involved in the "**National Park Valuation Project**" My responsibilities encompass:<br>
+-  **Conducting a Study to Assess Environmental Values in Japanese National Parks Using Big Data**.<br>
+   - My research focuses on conducting a study to assess environmental values in Japanese national parks using big data. This involves analyzing patterns and trends in visitor behavior, environmental impact, and wildlife activity within these protected areas. By leveraging big data analytics, the study aims to quantify the ecological and recreational benefits of national parks, understand the interplay between human activities and natural habitats, and inform sustainable park management practices. <br>
 
+- **Research on the Interaction Between Visitor Behavior and Bear Activity in Nikko National Park, Japan**.<br>
+  -  The research topic I am focusing on is the analysis of bear sighting incidents in Nikko City, Japan, and their conflicts with human activities.  The objective is to understand how human behaviors might influence bear activities and vice versa, providing insights into the complex interaction between wildlife and human presence in this area.
 <br>
 
 ---

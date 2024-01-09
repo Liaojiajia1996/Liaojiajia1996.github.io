@@ -26,10 +26,10 @@ In our pursuit of biodiversity conservation research, we are constantly on a jou
 <br>
 
 <div class="third">
-<img src="/images/team1.JPG" class="floatpic" width="480" height="360">
-<img src="/images/team2.JPG" class="floatpic" width="480" height="360">
-<img src="/images/team3.JPG" class="floatpic" width="480" height="360"> 
-<img src="/images/team4.jpg" class="floatpic" width="480" height="360">
+<img src="/images/team1.JPG" class="floatpic" width="384" height="288">
+<img src="/images/team2.JPG" class="floatpic" width="384" height="288">
+<img src="/images/team3.JPG" class="floatpic" width="384" height="288"> 
+<img src="/images/team4.jpg" class="floatpic" width="384" height="288">
 </div>
 
 

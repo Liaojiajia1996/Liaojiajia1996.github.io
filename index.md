@@ -8,7 +8,7 @@ layout: page
 
 Here is **Jiajia Liao ( 廖佳佳 )**.
 
-I am a first-year Ph.D. student at the School of Agriculture at **Hokkaido University** in Japan, advised by [Prof. Yasushi Shoji](https://yshoji5.wixsite.com/yshoji) . Currently, I serve as a **Research Assistant** at the [National Institute for Environmental Studies](https://www.nies.go.jp/) in Japan, under the supervision of [Dr. Takahiro Kubo](https://kubotaka.wixsite.com/blog).
+I am a first-year Ph.D. student at the School of Agriculture at **Hokkaido University** in Japan, advised by [Prof. Yasushi Shoji](https://yshoji5.wixsite.com/yshoji) . Currently, I serve as a Research Assistant at the [**National Institute for Environmental Studies**](https://www.nies.go.jp/) in Japan, under the supervision of [Dr. Takahiro Kubo](https://kubotaka.wixsite.com/blog).
 
 
 ## Academic Background

@@ -27,6 +27,7 @@ The innovation of this study lies in the application of big data technology in t
  
 -  **Conducting a Study to Assess Environmental Values in Japanese National Parks Using Big Data**.<br>
 
+
 My research focuses on conducting a study to assess environmental values in Japanese national parks using big data. This involves analyzing patterns and trends in visitor behavior, environmental impact, and wildlife activity within these protected areas.<br>
 
 By leveraging big data analytics, the study aims to quantify the ecological and recreational benefits of national parks, understand the interplay between human activities and natural habitats, and inform sustainable park management practices. <br>

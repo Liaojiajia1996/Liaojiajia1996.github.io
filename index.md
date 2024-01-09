@@ -6,11 +6,10 @@ layout: page
 
 <img src="blogs/web.assets/WechatIMG131.jpg" class="floatpic" width="320" height="480">
 
-Here is **Jiajia Liao (廖佳佳)**.
+Here is **Jiajia Liao ( 廖佳佳 )**.
 
 I am a first-year Ph.D. student at the School of Agriculture at **Hokkaido University** in Japan, advised by [Prof. Yasushi Shoji](https://yshoji5.wixsite.com/yshoji) . Currently, I serve as a **Research Assistant** at the [National Institute for Environmental Studies](https://www.nies.go.jp/) in Japan, under the supervision of [Dr. Takahiro Kubo](https://kubotaka.wixsite.com/blog).
 
-If you are interested in any aspect of me, I would love to chat and collaborate, please email me  -  [jiajia.liao.z1@elms.hokudai.ac.jp](mailto:jiajia.liao.z1@elms.hokudai.ac.jp) / [liao.jiajia@nies.go.jp](mailto:liao.jiajia@nies.go.jp)
 
 ## Academic Background
 
@@ -18,7 +17,6 @@ If you are interested in any aspect of me, I would love to chat and collaborate,
 - **Sep 2019 - June 2022 :** China University of Geosciences(Beijing),  CHINA  (MS)
 - **Sep 2015 - June 2019 :** Nanning Normal University, CHIAN  (BSc)
 
-<br>
 
 ---
 
@@ -43,5 +41,9 @@ My current research focuses on the integration and analysis of big data in enhan
 - **Aug 2023：** Delighted to have joined the NIES Biodiversity Conservation Project Research Lab. Exciting times ahead!！
 - **Apr 2023：** Thrilled to have started my Ph.D. journey at Hokkaido University!
 
-<br>
+
+# Contact
+- **Address	:**  生物多様性領域 生物多様性保全計画研究室  
+                 〒305-8506 茨城県つくば市小野川16-2
+- **Email	:** [jiajia.liao.z1@elms.hokudai.ac.jp](mailto:jiajia.liao.z1@elms.hokudai.ac.jp) / [liao.jiajia@nies.go.jp](mailto:liao.jiajia@nies.go.jp)
 

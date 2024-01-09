@@ -25,7 +25,7 @@ In our pursuit of biodiversity conservation research, we are constantly on a jou
 
 <br>
 
-<div class="third">
+<div class="fourth">
 <img src="/images/team1.JPG" class="floatpic" width="384" height="288">
 <img src="/images/team2.JPG" class="floatpic" width="384" height="288">
 <img src="/images/team3.JPG" class="floatpic" width="384" height="288"> 

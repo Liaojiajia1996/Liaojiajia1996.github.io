@@ -15,8 +15,7 @@ I am a first-year Ph.D. student at the School of Agriculture at **Hokkaido Unive
 
 - **Apr 2023 - Now :** Hokkaido University,  JAPAN  (PHD)
 - **Sep 2019 - June 2022 :** China University of Geosciences(Beijing),  CHINA  (MS)
-- **Sep 2015 - June 2019 :** Nanning Normal University, CHIAN  (BSc)
-
+- **Sep 2015 - June 2019 :** Nanning Normal University, CHINA  (BSc)
 
 ---
 
@@ -29,8 +28,7 @@ I am a first-year Ph.D. student at the School of Agriculture at **Hokkaido Unive
 - Human behaviour change
 - Ecosystem Services
 
-My current research focuses on the integration and analysis of big data in enhancing the management of nation park. My interests are on the **Big Data** and its applications in **Tourism Economy**. By leveraging advanced data analytics, I aim to understand and optimize the interaction between human activities and the environment, particularly in the context of urban tourism and park utilization. This approach seeks to demonstrate the significant role of nation park in enhancing societal well-being through both ecological and economic lenses. 
-<br>
+My current research focuses on the integration and analysis of big data in enhancing the management of nation park. My interests are on the **Big Data** and its applications in **Tourism Economy**. By leveraging advanced data analytics, I aim to understand and optimize the interaction between human activities and the environment, particularly in the context of urban tourism and park utilization. 
 
 ---
 
@@ -42,7 +40,7 @@ My current research focuses on the integration and analysis of big data in enhan
 - **Apr 2023：** Thrilled to have started my Ph.D. journey at Hokkaido University!
 
 
-# Contact
+## Contact
 - **Address	:**  生物多様性領域 生物多様性保全計画研究室  
                  〒305-8506 茨城県つくば市小野川16-2
 - **Email	:** [jiajia.liao.z1@elms.hokudai.ac.jp](mailto:jiajia.liao.z1@elms.hokudai.ac.jp) / [liao.jiajia@nies.go.jp](mailto:liao.jiajia@nies.go.jp)

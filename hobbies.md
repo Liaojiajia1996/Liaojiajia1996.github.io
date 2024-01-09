@@ -20,7 +20,7 @@ I have a strong passion for both oil and acrylic painting. Textured painting tec
 
 <div class="third">
 <img src="/images/wine1.jpg" class="floatpic" width="264" height="384">
-<img src="/images/wine4.jpg" class="floatpic" width="264" height="384">
+<img src="/images/wine3.jpg" class="floatpic" width="264" height="384">
 </div>
 
 <br>

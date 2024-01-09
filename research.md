@@ -1,10 +1,10 @@
 ---
 layout: page
-permalink: /awards/index.html
-title: Awards
+permalink: /research/index.html
+title: Research
 ---
 
-Lastest Update: 18th Dec 2023 &nbsp; [中文版本 (Chinese Version)](https://caihanlin.com/file/awards-zh/)
+Lastest Update: Jan 2024
 
 ## Scholarships
 

@@ -6,17 +6,17 @@ title: Research
 
 Lastest Update: Jan 2024
 
-## 博士研究课题
+## PhD Research Topic 
 
--博士研究论文 “**Big data applications in tourism economics**”<br>
+- “**Big data applications in tourism economics**”<br>
 
-关键词：大数据、旅游经济、手机移动数据、公园及绿地、人类行为活动<br> 
+Keywords:** Big Data**, **Tourism Economy**, **Mobile Mobile Data**, **Parks** , **Human Behavioural Activities**<br> 
 
 Within the realm of contemporary environmental economics, I am dedicated to exploring how big data can optimize the management of natural park green spaces, aiming to achieve a synergistic effect between environmental protection and economic growth. Utilizing mobile phone data, this research aims to precisely analyze human behavior patterns in parks and green spaces, optimize their layout, and enhance both environmental benefits and the value of tourism economics. <br>
 
 The innovation of this study lies in the application of big data technology in the field of environmental economics, revealing the interplay between park green space usage and human activities, and providing data support for the formulation of environmental policies and tourism planning. This approach not only promotes the efficient use of environmental resources but also provides a new perspective for understanding the dynamic relationship between the environment and economic development, contributing to the theoretical and practical innovation in environmental economics.<br>
 
-## 项目研究课题
+## Project Research Topic
 
 - I am serving as a Research Assistant within the team, primarily involved in the "**National Park Valuation Project**" My responsibilities encompass:<br>
   -  Research on the Interaction Between Visitor Behavior and Bear Activity in Nikko National Park, Japan.
@@ -26,13 +26,3 @@ The innovation of this study lies in the application of big data technology in t
 <br>
 
 ---
-
-## Services
-
-- Dec 2023 - Present：AAAI Student Membership
-- Sep 2022 - Present：IEEE Student Membership
-- Sep 2022 - Present：CAAI Student Membership
-- April 2022：**Top 10 Best Volunteers (Only 10/30000)** of Fuzhou University
-- Sep 2021 - Sep 2022：Deputy President of Volunteer Department, Youth League Committee of FZU
-- July 2021：Outstanding volunteer at 44th session of the World Heritage Committee
-- April 2021：Outstanding volunteer at 4th Digital China Summit<br>

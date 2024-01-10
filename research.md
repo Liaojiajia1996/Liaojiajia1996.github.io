@@ -20,9 +20,7 @@ The innovation of this study lies in the application of big data technology in t
 
  I am serving as a Research Assistant within the team, primarily involved in the "**National Park Valuation Project**" My responsibilities encompass:<br>
 
- <img src="/images/nature1.jpg" class="floatpic" width="480" height="360"><br>
- 
- 
+
 -  **Conducting a Study to Assess Environmental Values in Japanese National Parks Using Big Data**.<br>
 
 

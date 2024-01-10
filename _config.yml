@@ -1,4 +1,4 @@
-title: Jiajia Liao
+title: Hanlin Cai
 # tagline: Here is personal website of Hanlin Cai. Powered by Jekyll, based on the Minimal Mistakes theme.
 # description: Two roads diverged in woods, I took the one less traveled by.
 #Comment out url when working locally to resolve base urls correctly
@@ -8,17 +8,15 @@ url: https://liaojiajia1996.github.io/
 owner:
   name: Jiajia Liao
   avatar: jiajia.jpg
+
   # bio: Two roads diverged in woods, I took the one less traveled by.
-  email:  jiajia.liao.z1@elms.hokudai.ac.jp
-  # cv: https://caihanlin.com/file/CV-HanlinCAI.pdf
+  email: jiajia.liao.z1@elms.hokudai.ac.jp
   # Social networking links are used in author-bio sidebar. Update and remove as you like.
   # twitter: lancecai2002
   github: Liaojiajia1996
-  #linkedin: hanlincai
   scholar: https://scholar.google.com/citations?user=RHujVKUAAAAJ&hl
-  # bilibili: 594030035
   researchgate: https://www.researchgate.net/profile/Jiajia-Liao
-  # zhihu: https://www.zhihu.com/people/chlire
+
   # facebook: caihanlin2002
   # instagram: lancecai2002
   # lastfm:
@@ -28,7 +26,7 @@ owner:
 
 # Analytics and webmaster tools stuff goes here
 # https://search.google.com/search-console/ownership
- google_verify: "SkiyuGpJOKT74vv5GmXLvYXXDkXy4v8VWPtbelYz3Hs"
+google_verify: "SkiyuGpJOKT74vv5GmXLvYXXDkXy4v8VWPtbelYz3Hs"
 
 # https://ssl.bing.com/webmaster/configure/verify/ownership Option 2 content= goes here
 # bing_verify: ""
@@ -40,16 +38,16 @@ links:
     url: /
   - title: Publications
     url: /publications/
- # - title: Research
-   # url: /research/
+  - title: Research
+    url: /research/
   - title: Teams
     url: /teams/
   - title: Hobbies
     url: /hobbies/
   # - title: Notes
     # url: /notes/
-  # - title: Blogs
-    # url: /blogs/
+  - title: Blogs
+    url: /blogs/
 
 # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
 timezone: China/Beijing

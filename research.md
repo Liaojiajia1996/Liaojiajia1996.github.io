@@ -16,7 +16,6 @@ Within the realm of contemporary environmental economics, I am dedicated to expl
 
 The innovation of this study lies in the application of big data technology in the field of environmental economics, revealing the interplay between park green space usage and human activities, and providing data support for the formulation of environmental policies and tourism planning. <br>
 
-My research focuses on conducting a study to assess environmental values in Japanese national parks using big data. This involves analyzing patterns and trends in visitor behavior, environmental impact, and wildlife activity within these protected areas.
 
 ---
 
@@ -33,6 +32,7 @@ My research focuses on conducting a study to assess environmental values in Japa
 My research focuses on conducting a study to assess environmental values in Japanese national parks using big data. This involves analyzing patterns and trends in visitor behavior, environmental impact, and wildlife activity within these protected areas.<br>
 
 By leveraging big data analytics, the study aims to quantify the ecological and recreational benefits of national parks, understand the interplay between human activities and natural habitats, and inform sustainable park management practices. <br>
+
    
 <img src="/images/bear1.jpg" class="floatpic" width="480" height="360"><br>
 
@@ -42,5 +42,6 @@ By leveraging big data analytics, the study aims to quantify the ecological and 
 The research topic I am focusing on is the analysis of bear sighting incidents in Nikko nation park, Japan, and their conflicts with human activities.<br>
 
 The objective is to understand how human behaviors might influence bear activities and vice versa, providing insights into the complex interaction between wildlife and human presence in this area.<br>
+
 
 ---

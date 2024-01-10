@@ -29,7 +29,7 @@ Coming soon! 🚀
 
 -  Investigation and Suggestions on the Status Quo of the Use Right of New Countryside Homesteads under the Background of New Urbanization——Taking Yongning District and Wuming District of Nanning City as Examples [J].
 
-  Yu Xue, Peng Yuehua, Li Fuhuan, Liao Jiajia.<br>
+  Yu Xue, Peng Yuehua, Li Fuhuan, **Liao Jiajia**.<br>
     New agriculture, (13): 55-58.<br>
 
 ---

@@ -29,9 +29,7 @@ The innovation of this study lies in the application of big data technology in t
 -  **Conducting a Study to Assess Environmental Values in Japanese National Parks Using Big Data**.<br>
 
 
-My research focuses on conducting a study to assess environmental values in Japanese national parks using big data. This involves analyzing patterns and trends in visitor behavior, environmental impact, and wildlife activity within these protected areas.<br>
-
-By leveraging big data analytics, the study aims to quantify the ecological and recreational benefits of national parks, understand the interplay between human activities and natural habitats, and inform sustainable park management practices. <br>
+My research focuses on conducting a study to assess environmental values in Japanese national parks using big data. This involves analyzing patterns and trends in visitor behavior, environmental impact, and wildlife activity within these protected areas. By leveraging big data analytics, the study aims to quantify the ecological and recreational benefits of national parks, understand the interplay between human activities and natural habitats, and inform sustainable park management practices. <br>
 
    
 <img src="/images/bear1.jpg" class="floatpic" width="480" height="360"><br>
@@ -39,9 +37,7 @@ By leveraging big data analytics, the study aims to quantify the ecological and 
 
 - **Research on the Interaction Between Visitor Behavior and Bear Activity in Nikko National Park, Japan**.<br>
 
-The research topic I am focusing on is the analysis of bear sighting incidents in Nikko nation park, Japan, and their conflicts with human activities.<br>
-
-The objective is to understand how human behaviors might influence bear activities and vice versa, providing insights into the complex interaction between wildlife and human presence in this area.<br>
+The research topic I am focusing on is the analysis of bear sighting incidents in Nikko nation park, Japan, and their conflicts with human activities. The objective is to understand how human behaviors might influence bear activities and vice versa, providing insights into the complex interaction between wildlife and human presence in this area.<br>
 
 
 ---

@@ -23,11 +23,11 @@ Our research primarily focuses on Biodiversity conservation, Wildlife trade, and
 
 <br>
 
-<div class="fourth">
+<div class="third">
 <img src="/images/team1.JPG" class="floatpic" width="384" height="288">
 <img src="/images/team2.JPG" class="floatpic" width="384" height="288">
-<img src="/images/team3.JPG" class="floatpic" width="384" height="288"> 
-<img src="/images/team4.jpg" class="floatpic" width="384" height="288">
+<img src="/images/team3.JPG" class="floatpic" width="384" height="288">  
+<img src="/images/IMG_1758.JPG" class="floatpic" width="384" height="288">
 </div>
 
 <br>

@@ -18,7 +18,7 @@ Coming soon! 🚀
 - [Spatial differentiation characteristics and driving factors of agricultural eco-efficiency in Chinese provinces from the perspective of ecosystem services](https://www.sciencedirect.com/science/article/pii/S0959652620355128) [[J\]](https://www.sciencedirect.com/science/article/pii/S0959652620355128).<br>
 
 **Liao Jiajia**, Yu Chaoyue, Feng Zhe*, Zhao Huafu, Wu Kening, Ma Xiaoyan. <br>
-   Journal of Cleaner Production, 288. (IF=9.378, Q1)
+   Journal of Cleaner Production, 288. (IF：9.378, Q1)
 
 - 基于生态系统服务改进的中国各地农业生态效率研究[J].
 

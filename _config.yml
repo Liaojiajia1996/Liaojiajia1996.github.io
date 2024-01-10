@@ -40,8 +40,8 @@ links:
     url: /
   - title: Publications
     url: /publications/
-  - title: Research
-    url: /research/
+ # - title: Research
+   # url: /research/
   - title: Teams
     url: /teams/
   - title: Hobbies

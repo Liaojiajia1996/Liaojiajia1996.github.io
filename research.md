@@ -11,7 +11,7 @@ Lastest Update:  Jan 2024
 - “**Big data applications in tourism economics**”<br>
 Keywords:  **Big Data**, **Tourism Economy**, **Mobile Phone Data**, **Parks** , **Human Behavioural Activities**<br>
 
-Within the realm of contemporary environmental economics, I am dedicated to exploring how big data can optimize the management of natural park green spaces, aiming to achieve a synergistic effect between environmental protection and economic growth. Utilizing mobile phone data, this research aims to precisely analyze human behavior patterns in parks and green spaces, optimize their layout, and enhance both environmental benefits and the value of tourism economics. The innovation of this study lies in the application of big data technology in the field of environmental economics, revealing the interplay between park green space usage and human activities, and providing data support for the formulation of environmental policies and tourism planning. <br>
+Within the realm of contemporary environmental economics, I am dedicated to exploring how big data can optimize the management of natural park green spaces, aiming to achieve a synergistic effect between environmental protection and economic growth. Utilizing mobile phone data, this research aims to precisely analyze human behavior patterns in parks and green spaces, optimize their layout, and enhance both environmental benefits and the value of tourism economics. <br>
 
 
 ## Project Research Topic

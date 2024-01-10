@@ -14,9 +14,9 @@ I am a first-year Ph.D. student at the School of Agriculture at **Hokkaido Unive
 
 ## Academic Background
 
-- **Apr 2023 - Now :** Hokkaido University,  JAPAN  (PHD)
+- **Apr 2023 - Now :** Hokkaido University,  JAPAN  (Ph.D)
 - **Sep 2019 - June 2022 :** China University of Geosciences(Beijing),  CHINA  (MS)
-- **Sep 2015 - June 2019 :** Nanning Normal University, CHINA  (BSc)
+- **Sep 2015 - June 2019 :** Nanning Normal University, CHINA  (BS)
 
 ---
 

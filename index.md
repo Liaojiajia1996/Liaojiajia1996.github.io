@@ -23,13 +23,13 @@ I am a first-year Ph.D. student at the School of Agriculture at **Hokkaido Unive
 ## Research Interests
 
 - Big Data
-- Tourism Economy
+- Tourism Economic
 - Mobile Phone Data
 - National Park
 - Human behaviour change
 - Ecosystem Services
 
-My current research focuses on the integration and analysis of big data in enhancing the management of nation park. My interests are on the **Big Data** and its applications in **Tourism Economy**. By leveraging advanced data analytics, I aim to understand and optimize the interaction between human activities and the environment, particularly in the context of urban tourism and park utilization. 
+My current research focuses on the integration and analysis of big data in enhancing the management of nation park. My interests are on the **Big Data** and its applications in **Tourism Economic**. By leveraging advanced data analytics, I aim to understand and optimize the interaction between human activities and the environment, particularly in the context of urban tourism and park utilization. 
 
 ---
 

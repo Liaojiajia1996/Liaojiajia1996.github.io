@@ -9,7 +9,7 @@ Lastest Update:  Jan 2024
 ## PhD Research Topic
 
 - “**Big data applications in tourism economics**”<br>
-Keywords:  **Big Data**, **Tourism Economy**, **Mobile Phone Data**, **Parks** , **Human Behavioural Activities**<br>
+Keywords:  **Big Data**, **Tourism Economic**, **Mobile Phone Data**, **Parks** , **Human Behavioural Activities**<br>
 
 Within the realm of contemporary environmental economics, I am dedicated to exploring how big data can optimize the management of natural park green spaces, aiming to achieve a synergistic effect between environmental protection and economic growth. Utilizing mobile phone data, this research aims to precisely analyze human behavior patterns in parks and green spaces, optimize their layout, and enhance both environmental benefits and the value of tourism economics. <br>
 

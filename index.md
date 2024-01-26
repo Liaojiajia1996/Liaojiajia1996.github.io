@@ -31,6 +31,8 @@ I am a first-year Ph.D. student at the School of Agriculture at **Hokkaido Unive
 
 My current research focuses on the integration and analysis of big data in enhancing the management of nation park. My interests are on the **Big Data** and its applications in **Tourism Economic**. By leveraging advanced data analytics, I aim to understand and optimize the interaction between human activities and the environment, particularly in the context of urban tourism and park utilization. 
 
+in，addition, i'm Working on collecting information and analyzing data related to the economic valuation of biodiversity and the environmental value of national parks. 
+
 ---
 
 ## News and Updates
